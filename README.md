@@ -24,5 +24,5 @@ Helped the management team make informed decisions on inventory management and p
 
 The results of the analysis were presented in an easy-to-understand format, allowing for quick implementation of changes.
 
-⚙️ Tools Used
+⚙️ Tools Used: 
 Microsoft Excel
